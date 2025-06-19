@@ -5,8 +5,8 @@
 
 - **Tên dự án:** Kiểm thử API bằng Postman  
 - **Ngày thực hiện:** 19/06/2025  
-- **Người thực hiện:** Nguyễn Thị Cẩm Tú  
-- **Mã sinh viên:** 22010230  
+- **Người thực hiện:** Phạm Thị Vân Anh  
+- **Mã sinh viên:** 22010048  
 - **Môi trường kiểm thử:** Postman  
 - **Phương pháp kiểm thử:**  
   - Kiểm thử thủ công  
@@ -29,8 +29,5 @@
 
 ---
 
-##  chạy kiểm thử tự động
+##  Kiểm thử bằng postman
 
-1. Cài đặt newman:
-   ```bash
-   npm install -g newman
