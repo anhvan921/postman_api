@@ -31,4 +31,4 @@
 
 ##  Kiểm thử bằng postman
 1. Tổng quan về giao diện
-![Ảnh chụp màn hình 2025-06-20 001329](https://github.com/user-attachments/assets/74303238-5c5b-4ca9-8ac0-d6895f98f2aa)
+![Ảnh chụp màn hình 2025-06-20 000454](https://github.com/user-attachments/assets/bf07ab36-9307-4eb6-8ff1-a2db2349ae42)
